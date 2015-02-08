@@ -1,0 +1,1 @@
+# cloudify-haproxy-docker-blueprint
